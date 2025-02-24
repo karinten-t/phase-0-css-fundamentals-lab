@@ -3,3 +3,84 @@ body {
   height: 100%;
   margin: 0;
 }
+#main-header{
+  text-align: center;
+}
+.navigation{
+text-align: center;
+background-color: gray;
+margin-left: 600px;
+margin-right: 600px;
+
+
+
+
+}
+
+
+#featured-property{
+margin-left: 400px;
+
+}
+#caption{
+  margin-left: 200px;
+}
+
+#body-paragraph{
+width: 800px;
+margin-left: 100px;
+
+}
+
+
+#contact-div{
+float: left;
+margin-left: 270px;
+overflow-clip-margin: 
+
+
+}
+#Correspondence-div{
+  float: left;
+  margin-left: 270px;
+}
+#links-div{
+  float: left;
+  margin-left: 270px;
+
+}
+#follow-div{
+  float: left;
+  margin-left: 270px;
+  
+}
+#about-tag{
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+
+
+#newprop-tag{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#realstate-tag{
+  padding-left: 10px;
+  padding: 10px;
+}
+
+#market-tag{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#contact-tag{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+
+
+
